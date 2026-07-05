@@ -25,5 +25,5 @@ Wisdom Tree is a collaborative art installation where visitors contribute their 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/AhaanV05/wisdom-tree.git
+git https://github.com/harsh-it-op/wisdom-tree.git
 cd wisdom-tree
